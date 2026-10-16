@@ -1,24 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Huy Phung premium developer profile banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="Huy Phung Full Stack Engineer banner">
 <defs>
-  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#060D1B"/><stop offset=".6" stop-color="#0B1730"/><stop offset="1" stop-color="#090D22"/></linearGradient>
-  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#37E5F3"/><stop offset="1" stop-color="#A17CFF"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#16B7D1" stop-opacity=".22"/><stop offset="1" stop-color="#16B7D1" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#40627F" stroke-width=".7" opacity=".23"/></pattern>
-  <filter id="blur"><feGaussianBlur stdDeviation="15"/></filter>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060b17"/><stop offset="1" stop-color="#111c33"/></linearGradient>
+  <linearGradient id="neon" x2="1"><stop stop-color="#50e4ef"/><stop offset="1" stop-color="#a38fff"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#2588b1" stop-opacity=".28"/><stop offset="1" stop-color="#2588b1" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#3a5970" stroke-opacity=".16"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
 </defs>
-<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
-<circle cx="1030" cy="155" r="240" fill="url(#glow)"/>
-<circle cx="1017" cy="165" r="120" fill="none" stroke="#39E3F5" stroke-width="1.6" stroke-opacity=".65" stroke-dasharray="12 10"><animateTransform attributeName="transform" type="rotate" from="0 1017 165" to="360 1017 165" dur="44s" repeatCount="indefinite"/></circle>
-<circle cx="1017" cy="165" r="89" fill="none" stroke="#A17CFF" stroke-opacity=".65" stroke-dasharray="4 12"><animateTransform attributeName="transform" type="rotate" from="360 1017 165" to="0 1017 165" dur="31s" repeatCount="indefinite"/></circle>
-<path d="M960 165l35 35 78-80" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<g stroke="#3DCDE6" opacity=".36" fill="none"><path d="M780 55h118l30 30h55"/><path d="M780 295h128l35-35h70"/><path d="M850 120h42l22 22"/><path d="M855 240h55l20-20"/></g>
-<g fill="#37E5F3"><circle cx="780" cy="55" r="3"/><circle cx="780" cy="295" r="3"/><circle cx="850" cy="120" r="3"/><circle cx="855" cy="240" r="3"/></g>
-<rect x="62" y="49" width="180" height="32" rx="16" fill="#12344B" stroke="#26637A"/><circle cx="80" cy="65" r="4" fill="#37E5F3"/><text x="94" y="70" font-family="Arial,sans-serif" font-size="13" font-weight="bold" letter-spacing="1.3" fill="#B7EAF4">AVAILABLE TO BUILD</text>
-<text x="62" y="164" font-family="Arial,sans-serif" font-size="70" font-weight="800" letter-spacing="3" fill="#F1F6FF">HUY PHUNG</text>
-<rect x="63" y="183" width="390" height="4" rx="2" fill="url(#accent)"/>
-<text x="62" y="229" font-family="Arial,sans-serif" font-size="24" font-weight="600" fill="#6FE4F5">FULL-STACK DEVELOPER</text>
-<text x="62" y="266" font-family="Arial,sans-serif" font-size="20" fill="#B8C5D8">Web Platforms  /  Systems  /  Automation</text>
-<text x="62" y="323" font-family="monospace" font-size="14" fill="#879CB8">&gt; DESIGN. BUILD. OPTIMIZE. SCALE.<tspan fill="#37E5F3">_</tspan></text>
-<rect x="1" y="1" width="1198" height="358" rx="20" stroke="#25435F" fill="none" stroke-width="2"/>
+<rect width="1200" height="370" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="370" rx="22" fill="url(#grid)"/>
+<circle cx="915" cy="170" r="250" fill="url(#halo)"/>
+<rect x="48" y="43" width="145" height="30" rx="15" fill="#10273b" stroke="#1e6773"/>
+<circle cx="65" cy="58" r="5" fill="#4de0ca"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="79" y="63" font-family="monospace" font-size="11" font-weight="bold" fill="#a2f6e7">BUILDING SYSTEMS</text>
+<text x="48" y="155" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="800" fill="#eef5ff" letter-spacing="3">HUY PHUNG</text>
+<rect x="48" y="174" width="480" height="3" rx="2" fill="url(#neon)"/>
+<text x="48" y="216" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" fill="#52d9ed">FULL-STACK ENGINEER</text>
+<text x="48" y="247" font-family="monospace" font-size="15" fill="#a5b7d1">Web Platforms  /  Backend Systems  /  Automation</text>
+<text x="48" y="323" font-family="monospace" font-size="14" fill="#93a8c3">&gt; DESIGN. BUILD. OPTIMIZE. SCALE.</text>
+<g transform="translate(910 178)">
+ <circle r="124" stroke="#49ddea" stroke-opacity=".28" fill="none" stroke-width="1" stroke-dasharray="6 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="55s" repeatCount="indefinite"/></circle>
+ <circle r="91" stroke="#ab9afe" stroke-opacity=".58" fill="none" stroke-width="1.5" stroke-dasharray="18 12"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="36s" repeatCount="indefinite"/></circle>
+ <path d="M0-75 67-38 67 38 0 76-67 38-67-38Z" fill="#0e2034" stroke="#55d9e9" stroke-width="2"/>
+ <path d="M0-48 42-24 42 25 0 49-42 25-42-24Z" fill="none" stroke="#a38fff" stroke-opacity=".8"/>
+ <path d="M-31-18 0-35 31-18 31 17 0 35-31 17Z" fill="#192d45" stroke="#5bdde8" stroke-width="1.5"/>
+ <path d="M-12-9-21 0-12 9 M12-9 21 0 12 9 M7-16-7 16" fill="none" stroke="url(#neon)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ <g fill="#61ecf2"><circle cx="0" cy="-75" r="4"/><circle cx="67" cy="38" r="4"/><circle cx="-67" cy="38" r="4"/></g>
+</g>
+<path d="M1080 80h47v-25h31 M1031 280h62v27h58 M711 62h-42v20h-57 M711 280h-56v31h-34" fill="none" stroke="#3c879b" stroke-opacity=".6" stroke-width="1.5"/>
+<circle cx="1158" cy="55" r="3" fill="#55e2ed"/><circle cx="1151" cy="307" r="3" fill="#9e8df1"/>
+<rect x="1" y="1" width="1198" height="368" rx="21" stroke="#294259" fill="none"/>
 </svg>
