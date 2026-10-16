@@ -1,6 +1,10 @@
 name: Generate contribution snake
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
   workflow_dispatch:
   schedule:
     - cron: "17 2 * * *"
@@ -8,9 +12,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Generate SVGs
         uses: Platane/snk/svg-only@v3
