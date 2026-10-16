@@ -6,9 +6,17 @@
     <a href="https://github.com/devHuyPh?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0F172A?style=for-the-badge&labelColor=162238&color=1A9EAD" alt="Explore projects" /></a>
     <a href="https://github.com/devHuyPh"><img src="https://komarev.com/ghpvc/?username=devHuyPh&label=PROFILE+VIEWS&color=6554B7&style=for-the-badge" alt="Profile views" /></a>
   </p>
+  <p>
+    <a href="#01--engineering-profile">About</a> &nbsp;·&nbsp;
+    <a href="#02--toolkit">Toolkit</a> &nbsp;·&nbsp;
+    <a href="#03--selected-repositories">Projects</a> &nbsp;·&nbsp;
+    <a href="#06--lets-connect">Connect</a>
+  </p>
 </div>
 
 ---
+
+<a id="01--engineering-profile"></a>
 
 ### `01 // ENGINEERING PROFILE`
 
@@ -32,19 +40,30 @@
 
 </td></tr></table>
 
+<br/>
+
+<a id="02--toolkit"></a>
+
 ### `02 // TOOLKIT`
 
-**Backend & data**
+<table>
+  <tr>
+    <td valign="middle"><b>Backend &amp; data</b><br/><sub>APPLICATION LOGIC / STORAGE</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis&amp;theme=dark" alt="PHP, Laravel, MySQL, Redis" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Frontend &amp; UI</b><br/><sub>INTERFACES / EXPERIENCE</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,tailwind&amp;theme=dark" alt="JavaScript, TypeScript, Vue, React, HTML, CSS, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Infrastructure &amp; tools</b><br/><sub>DEPLOYMENT / WORKFLOW</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode&amp;theme=dark" alt="Linux, Docker, Nginx, Git, GitHub, VS Code" /></td>
+  </tr>
+</table>
 
-![Backend](https://skillicons.dev/icons?i=php,laravel,mysql,redis&theme=dark)
+<br/>
 
-**Frontend & UI**
-
-![Frontend](https://skillicons.dev/icons?i=js,ts,vue,react,html,css,tailwind&theme=dark)
-
-**Infrastructure & development**
-
-![Infrastructure](https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode&theme=dark)
+<a id="03--selected-repositories"></a>
 
 ### `03 // SELECTED REPOSITORIES`
 
@@ -60,6 +79,8 @@
 
 > Private client work is intentionally not published here. For commercial projects, I can share a high-level walkthrough where permitted.
 
+<br/>
+
 ### `04 // GITHUB SIGNAL`
 
 <div align="center">
@@ -71,11 +92,17 @@
 
 <sub>Language distribution reflects accessible repositories, not total professional experience.</sub>
 
+<br/>
+
 ### `05 // CONTRIBUTION ACTIVITY`
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/devHuyPh/devHuyPh/output/github-contribution-grid-snake-dark.svg" alt="Animated view of GitHub contribution activity" />
 </div>
+
+<br/>
+
+<a id="06--lets-connect"></a>
 
 ### `06 // LET'S CONNECT`
 
@@ -83,4 +110,6 @@
   <a href="https://github.com/devHuyPh"><img src="https://img.shields.io/badge/GITHUB-devHuyPh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <p><b>Interested in building thoughtful software together?</b></p>
   <sub>DESIGN &nbsp;·&nbsp; BUILD &nbsp;·&nbsp; OPTIMIZE &nbsp;·&nbsp; SCALE</sub>
+  <br/><br/>
+  <img src="./assets/signature.svg" width="100%" alt="devHuyPh — From interface to infrastructure" />
 </div>

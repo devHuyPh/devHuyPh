@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-labelledby="title">
+  <title id="title">devHuyPh — From interface to infrastructure</title>
+  <defs>
+    <linearGradient id="accent"><stop stop-color="#50e4ef"/><stop offset="1" stop-color="#a38fff"/></linearGradient>
+    <linearGradient id="background"><stop stop-color="#060b17"/><stop offset="1" stop-color="#111c33"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="75" rx="12" fill="url(#background)" stroke="#294259"/>
+  <rect x="28" y="24" width="3" height="28" rx="1.5" fill="url(#accent)"/>
+  <text x="46" y="44" font-family="monospace" font-size="16" font-weight="bold" fill="#eef5ff">devHuyPh<tspan fill="#55dff1">_</tspan></text>
+  <text x="1154" y="43" font-family="monospace" font-size="12" letter-spacing="2" text-anchor="end" fill="#a5b7d1">FROM INTERFACE TO INFRASTRUCTURE</text>
+</svg>
