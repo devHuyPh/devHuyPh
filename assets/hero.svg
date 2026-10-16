@@ -1,30 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title">
-<title id="title">Huy Phung — Full-stack engineer. From idea to interface to infrastructure.</title>
-<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b3decf" stroke-opacity=".05"/></pattern></defs>
-<rect width="1200" height="500" rx="20" fill="#101818"/>
-<rect x="744" width="456" height="500" rx="20" fill="#152620"/>
-<rect width="1200" height="500" rx="20" fill="url(#grid)"/>
-<path d="M48 91H1152M744 91V435M48 435H1152" stroke="#30423d"/>
-<g font-family="Arial, Helvetica, sans-serif">
-<text x="48" y="57" fill="#eef4ed" font-size="22" font-weight="700">huy<tspan fill="#9ce9c7">.</tspan></text>
-<text x="1152" y="55" fill="#a7bcb2" font-size="12" text-anchor="end" letter-spacing="2">ENGINEERING / DEVHUYPH</text>
-<text x="48" y="145" fill="#9ce9c7" font-size="12" letter-spacing="3">FULL-STACK ENGINEER</text>
-<text x="43" y="240" fill="#eef4ed" font-size="88" font-weight="700" letter-spacing="-5">Huy Phung<tspan fill="#9ce9c7">.</tspan></text>
-<text x="48" y="300" fill="#e1e9e2" font-size="28">From idea to interface</text>
-<text x="48" y="340" fill="#e1e9e2" font-size="28">to infrastructure.</text>
-<text x="48" y="398" fill="#a7bcb2" font-size="14" letter-spacing="1">WEB PRODUCTS / SYSTEMS / AUTOMATION</text>
-<text x="48" y="475" fill="#a7bcb2" font-size="12" letter-spacing="2">THOUGHTFUL INTERFACES. RELIABLE SYSTEMS.</text>
-<text x="1152" y="475" fill="#9ce9c7" font-size="12" text-anchor="end" letter-spacing="2">DESIGN / BUILD / REFINE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="Huy Phung Full Stack Engineer banner">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060b17"/><stop offset="1" stop-color="#111c33"/></linearGradient>
+  <linearGradient id="neon" x2="1"><stop stop-color="#50e4ef"/><stop offset="1" stop-color="#a38fff"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#2588b1" stop-opacity=".28"/><stop offset="1" stop-color="#2588b1" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#3a5970" stroke-opacity=".16"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="1200" height="370" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="370" rx="22" fill="url(#grid)"/>
+<circle cx="915" cy="170" r="250" fill="url(#halo)"/>
+<rect x="48" y="43" width="145" height="30" rx="15" fill="#10273b" stroke="#1e6773"/>
+<circle cx="65" cy="58" r="5" fill="#4de0ca"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="79" y="63" font-family="monospace" font-size="11" font-weight="bold" fill="#a2f6e7">BUILDING SYSTEMS</text>
+<text x="48" y="155" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="800" fill="#eef5ff" letter-spacing="3">HUY PHUNG</text>
+<rect x="48" y="174" width="480" height="3" rx="2" fill="url(#neon)"/>
+<text x="48" y="216" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" fill="#52d9ed">FULL-STACK ENGINEER</text>
+<text x="48" y="247" font-family="monospace" font-size="15" fill="#a5b7d1">Web Platforms  /  Backend Systems  /  Automation</text>
+<text x="48" y="323" font-family="monospace" font-size="14" fill="#93a8c3">&gt; DESIGN. BUILD. OPTIMIZE. SCALE.</text>
+<g transform="translate(910 178)">
+ <circle r="124" stroke="#49ddea" stroke-opacity=".28" fill="none" stroke-width="1" stroke-dasharray="6 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="55s" repeatCount="indefinite"/></circle>
+ <circle r="91" stroke="#ab9afe" stroke-opacity=".58" fill="none" stroke-width="1.5" stroke-dasharray="18 12"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="36s" repeatCount="indefinite"/></circle>
+ <path d="M0-75 67-38 67 38 0 76-67 38-67-38Z" fill="#0e2034" stroke="#55d9e9" stroke-width="2"/>
+ <path d="M0-48 42-24 42 25 0 49-42 25-42-24Z" fill="none" stroke="#a38fff" stroke-opacity=".8"/>
+ <path d="M-31-18 0-35 31-18 31 17 0 35-31 17Z" fill="#192d45" stroke="#5bdde8" stroke-width="1.5"/>
+ <path d="M-12-9-21 0-12 9 M12-9 21 0 12 9 M7-16-7 16" fill="none" stroke="url(#neon)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+ <g fill="#61ecf2"><circle cx="0" cy="-75" r="4"/><circle cx="67" cy="38" r="4"/><circle cx="-67" cy="38" r="4"/></g>
 </g>
-<g font-family="monospace" font-size="14">
-<text x="790" y="145" fill="#8ca99b" font-size="11" letter-spacing="2">THE CONNECTED STACK</text>
-<path d="M961 219V253M961 307V341" stroke="#9ce9c7" stroke-dasharray="4 5"/>
-<rect x="790" y="165" width="342" height="54" rx="8" fill="#192d27" stroke="#426352"/>
-<circle cx="813" cy="192" r="4" fill="#9ce9c7"/><text x="832" y="197" fill="#d7ebde">interface</text><text x="1110" y="197" fill="#8ca99b" text-anchor="end">01</text>
-<rect x="790" y="253" width="342" height="54" rx="8" fill="#192d27" stroke="#426352"/>
-<circle cx="813" cy="280" r="4" fill="#9ce9c7"/><text x="832" y="285" fill="#d7ebde">application</text><text x="1110" y="285" fill="#8ca99b" text-anchor="end">02</text>
-<rect x="790" y="341" width="342" height="54" rx="8" fill="#2b2922" stroke="#73604b"/>
-<circle cx="813" cy="368" r="4" fill="#eeb18d"/><text x="832" y="373" fill="#eddcc8">infrastructure</text><text x="1110" y="373" fill="#b29c81" text-anchor="end">03</text>
-</g>
-<rect x=".5" y=".5" width="1199" height="499" rx="20" fill="none" stroke="#30423d"/>
+<path d="M1080 80h47v-25h31 M1031 280h62v27h58 M711 62h-42v20h-57 M711 280h-56v31h-34" fill="none" stroke="#3c879b" stroke-opacity=".6" stroke-width="1.5"/>
+<circle cx="1158" cy="55" r="3" fill="#55e2ed"/><circle cx="1151" cy="307" r="3" fill="#9e8df1"/>
+<rect x="1" y="1" width="1198" height="368" rx="21" stroke="#294259" fill="none"/>
 </svg>
