@@ -12,7 +12,7 @@
 
 ### `01 // ENGINEERING PROFILE`
 
-**Hi, I'm Huy.** I engineer practical web products, business applications, and backend systems — taking ideas from interface to infrastructure.
+**Hi, I'm Huy.** I build practical web products, business applications, and backend systems, connecting thoughtful interfaces with reliable infrastructure.
 
 <table><tr><td width="50%" valign="top">
 
@@ -71,7 +71,13 @@
 
 <sub>Language distribution reflects accessible repositories, not total professional experience.</sub>
 
-### `05 // LET'S CONNECT`
+### `05 // CONTRIBUTION ACTIVITY`
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/devHuyPh/devHuyPh/output/github-contribution-grid-snake-dark.svg" alt="Animated view of GitHub contribution activity" />
+</div>
+
+### `06 // LET'S CONNECT`
 
 <div align="center">
   <a href="https://github.com/devHuyPh"><img src="https://img.shields.io/badge/GITHUB-devHuyPh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
