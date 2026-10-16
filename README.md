@@ -77,7 +77,11 @@
 ### `04 // CONTRIBUTION ACTIVITY`
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/devHuyPh/devHuyPh/output/github-contribution-grid-snake-dark.svg" alt="Animated view of GitHub contribution activity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devHuyPh/devHuyPh/output/contribution-neon-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devHuyPh/devHuyPh/output/contribution-neon-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/devHuyPh/devHuyPh/output/contribution-neon-light.svg" alt="Animated view of GitHub contribution activity in cyan and violet" />
+  </picture>
 </div>
 
 <br/>
